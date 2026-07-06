@@ -42,10 +42,6 @@
 * #generic-one-by-two(left: "", right: "")
 */
 
-== Skills & Certifications
-
- Work natively with Generative AI Tools like Claude, CoPilot, and ChatGPT. Python, R, SQL (PostgreSQL, SQL Server, DuckDB, SQLite), SAS Programming, Microsoft Azure (Commercial and Government), Microsoft PowerBI, and Apache Airflow 3
-
 == Work Experience
 
 #work(
@@ -103,3 +99,6 @@
   consistent: true
 )
 
+== Skills & Certifications
+
+ Work natively with Generative AI Tools like Claude, CoPilot, and ChatGPT. Python, R, SQL (PostgreSQL, SQL Server, DuckDB, SQLite), SAS Programming, Microsoft Azure (Commercial and Government), Microsoft PowerBI, and Apache Airflow 3
