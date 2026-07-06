@@ -101,4 +101,4 @@
 
 == Skills & Certifications
 
- Work natively with Generative AI Tools like Claude, CoPilot, and ChatGPT. Python, R, SQL (PostgreSQL, SQL Server, DuckDB, SQLite), SAS Programming, Microsoft Azure (Commercial and Government), Microsoft PowerBI, and Apache Airflow 3
+ Work natively with Generative AI Tools like Claude, CoPilot, and ChatGPT. Python, R, SQL (PostgreSQL, SQL Server, DuckDB, SQLite),  SAS Programming, Microsoft Azure Commercial and Azure Government, Microsoft PowerBI, Apache Airflow 3, SQLMesh, Nix Language, NixOS, and nix packaging ecosystem.
