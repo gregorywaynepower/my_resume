@@ -44,7 +44,7 @@
 
 == Skills & Certifications
 
- Generative AI Tools like Claude, CoPilot, and ChatGPT. Python, R, SQL (PostgreSQL, SQL Server, DuckDB, SQLite), SAS Programming, Microsoft Azure (Commercial and Government), Microsoft PowerBI, and Apache Airflow 3
+ Work natively with Generative AI Tools like Claude, CoPilot, and ChatGPT. Python, R, SQL (PostgreSQL, SQL Server, DuckDB, SQLite), SAS Programming, Microsoft Azure (Commercial and Government), Microsoft PowerBI, and Apache Airflow 3
 
 == Work Experience
 
@@ -54,12 +54,12 @@
   company: "Town of Cary",
   dates: dates-helper(start-date: "October 2022", end-date: "October 2025"),
 )
-- Saved Cary \$100,000 per year by conducting a service utilization audit and removing unnecessary services for on-premises SAS 9.4 cluster
-- Created inventory of Cary’s Eco-Counter sites and counting equipment, saving \$14,000 per year
-- Deployed and trained users on QGIS, PostgreSQL, and PostGIS for GIS users, saving \$8,400 per year in licensing
+- Saved Cary \$100,000 per year by conducting a service utilization audit of on-premises SAS 9.4 cluster
+- Saved \$14,000 per year by creating inventory and map of Cary’s Eco-Counter sites and counting equipment, 
+- Saved \$8,400 per year in licensing, by deploying and training users on QGIS, PostgreSQL, and PostGIS for GIS users, 
 - Began the Python Inter-Department User Group and trained users on Python, SQL, and Git
 - Managed Microsoft Azure resources, PowerBI Dataflows, PowerBI workspaces, SAS 9.4 on Windows & Red Hat Enterprise Linux, and SAS Viya 4
-- Built data pipelines using Microsoft PowerBI and Huwise (formerly Opendatasoft) Platform for internal and public stakeholders
+- Built data pipelines using Python, SAS 9.4, Microsoft PowerBI and Huwise (formerly Opendatasoft) Platform for internal and public stakeholders
 - Created public dashboards using Huwise's Bootstrap and AngularJS component library
 - Worked across departments' with data professionals to improve Cary, NC's eligibility for What Works Cities Certification
 
