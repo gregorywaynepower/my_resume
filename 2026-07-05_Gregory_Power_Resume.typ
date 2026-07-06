@@ -100,6 +100,6 @@
   degree: "Bachelor's of Science, Fisheries, Wildlife and Conservation Biology",
 
   // Uncomment the line below if you want edu formatting to be consistent with everything else
-  // consistent: true
+  consistent: true
 )
 
