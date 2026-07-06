@@ -7,7 +7,7 @@
 #let email = "gregorywpower@gmail.com"
 #let github = "github.com/gregorywaynepower"
 #let linkedin = "linkedin.com/in/gregorywpower"
-#let phone = "+1 (540) 418-6458"
+#let phone = "+1 (910) 381-9391"
 #let personal-site = "stuxf.dev"
 
 #show: resume.with(
@@ -54,14 +54,14 @@
   company: "Town of Cary",
   dates: dates-helper(start-date: "October 2022", end-date: "October 2025"),
 )
-- Saved Cary \$100,000 per year by conducting a service utilization audit of on-premises SAS 9.4 cluster
+- Saved Cary \$100,000 per year by conducting a service utilization audit of on-premises SAS 9.4 cluster.
 - Saved \$14,000 per year by creating inventory and map of Cary’s Eco-Counter sites and counting equipment, 
-- Saved \$8,400 per year in licensing, by deploying and training users on QGIS, PostgreSQL, and PostGIS for GIS users, 
-- Began the Python Inter-Department User Group and trained users on Python, SQL, and Git
-- Managed Microsoft Azure resources, PowerBI Dataflows, PowerBI workspaces, SAS 9.4 on Windows & Red Hat Enterprise Linux, and SAS Viya 4
-- Built data pipelines using Python, SAS 9.4, Microsoft PowerBI and Huwise (formerly Opendatasoft) Platform for internal and public stakeholders
-- Created public dashboards using Huwise's Bootstrap and AngularJS component library
-- Worked across departments' with data professionals to improve Cary, NC's eligibility for What Works Cities Certification
+- Saved \$8,400 per year in licensing, by deploying and training users on QGIS, GRASS, PostgreSQL, and PostGIS for GIS users.
+- Began the Python Inter-Department User Group and trained users on Python, SQL, and Git.
+- Managed Microsoft Azure resources, PowerBI Dataflows, PowerBI workspaces, SAS 9.4 on Windows & Red Hat Enterprise Linux, and SAS Viya 4.
+- Built data pipelines using Python, SAS 9.4, Microsoft PowerBI and Huwise (formerly Opendatasoft) Platform for internal and public stakeholders.
+- Created public dashboards using Huwise's Bootstrap and AngularJS component library.
+- Worked across departments' with data professionals to improve Cary, NC's eligibility for What Works Cities Certification.
 
 #work(
   title: "Project Manager & Developer",
@@ -82,15 +82,14 @@
   company: "Southern Energy Management",
   dates: dates-helper(start-date: "Jul 2019", end-date: "Oct 2022"),
 )
-- Transitioned company's reporting infrastructure to a new web platform, saving \$40,000 per year through increased productivity and opened new lines of business through reporting trends found in our data to builders.
-- Created scripts for QA of Invoicing, using Python modules Selenium and pandas, that eliminated issue of duplicates being added to system, saving company \$10,000 per year through increased productivity.
-- Created scripts to collate and analyze service data for QA purposes, saved \$95,000 per year of labor, increasing coverage/visibility of quality assurance from 20% to 100% of data.
+- Saved \$40,000 per year through increased productivity by transitioning company's reporting infrastructure to a new web platform and opened new lines of business by reporting trends found in blower door and duct testing data to builders.
+- Saved company \$10,000 per year, using Python modules Selenium and pandas to eliminate issue of duplicates being added to Invoicing pipeline.
+- Increased coverage and visibility of quality assurance data from 20% to 100% of data and saved \$95,000 per year of labor through Python scripts to collate and analyze service data for QA purposes. 
 - Built integration between MySQL database, Google Sheets, Hubspot, and Sakari that sends SMS messages to site supervisors to see if jobs are ready prior to field tech arrival to prevent wasted time and missed rough inspections.
-- Developed Microsoft Powershell, Bash, and Python 3 scripts, managing source control through Git and GitHub
-- Managed maintenance of code infrastructure for built scripts and creating consistent computer environments for data team.
+- Managed developer operations and deployment of pipelines for data team.
 - Used Python, Excel, Google Sheets, and MySQL Server/Workbench to create certificates for Non-Energy Star programs.
 - Entered and analyzed data from multiple pipelines into online platform.
- Introduced Git/GitHub as a form of source control for company
+- Introduced Git/GitHub as a form of source control for company, training users and data team.
 
 == Education
 
