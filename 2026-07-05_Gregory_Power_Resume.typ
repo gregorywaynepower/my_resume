@@ -51,7 +51,7 @@
   dates: dates-helper(start-date: "October 2022", end-date: "October 2025"),
 )
 - Saved Cary \$100,000 per year by conducting a service utilization audit of on-premises SAS 9.4 cluster.
-- Saved \$14,000 per year by creating inventory and map of Cary’s Eco-Counter sites and counting equipment, 
+- Saved \$14,000 per year by creating inventory and map of Cary’s Eco-Counter sites and counting equipment. 
 - Saved \$8,400 per year in licensing by deploying and training users on QGIS, GRASS, PostgreSQL, and PostGIS for geospatial mapping and analysis.
 - Began the Python Inter-Department User Group and trained users on Python, SQL, and Git.
 - Managed Microsoft Azure resources, PowerBI Dataflows, PowerBI workspaces, SAS 9.4 on Windows & Red Hat Enterprise Linux, and SAS Viya 4.
