@@ -50,14 +50,14 @@
   company: "Town of Cary",
   dates: dates-helper(start-date: "October 2022", end-date: "October 2025"),
 )
-- Saved Cary \$100,000 per year by conducting a service utilization audit of on-premises SAS 9.4 cluster.
-- Saved \$14,000 per year by creating inventory and map of Cary’s Eco-Counter sites and counting equipment. 
-- Saved \$8,400 per year in licensing by deploying and training users on QGIS, GRASS, PostgreSQL, and PostGIS for geospatial mapping and analysis.
-- Began the Python Inter-Department User Group and trained users on Python, SQL, and Git.
-- Managed Microsoft Azure resources, PowerBI Dataflows, PowerBI workspaces, SAS 9.4 on Windows & Red Hat Enterprise Linux, and SAS Viya 4.
+- Reduced annual infrastructure costs by \$100,000 through a comprehensive utilization audit of Cary's on-premises SAS 9.4 cluster, removing underutilized vendor services.
+- Created inventory and map of Cary’s Eco-Counter sites and people-counting equipment, saving \$14,000 per year in maintenance costs. 
+- Saved \$8,400 annually in software licensing costs by deploying and training users on QGIS, GRASS, PostgreSQL, and PostGIS for geospatial mapping and analysis workflows.
+- Initiated the Python Inter-Department User Group and trained users on Python, SQL, and Git.
+- Supported and administered enterprise analytics infrastructure, including Microsoft Azure resources, Power BI Dataflows and workspaces, SAS 9.4 (Windows Server and Red Hat Enterprise Linux), and SAS Viya 4.
 - Built data pipelines using Python, SAS 9.4, Microsoft PowerBI and Huwise (formerly Opendatasoft) Platform for internal and public stakeholders.
-- Created public dashboards using Huwise's Bootstrap and AngularJS component library.
-- Worked across departments' with data professionals to improve Cary, NC's eligibility for What Works Cities Certification.
+- Created public-facing dashboards and data applications using Huwise's Bootstrap and AngularJS component library.
+- Collaborated across departments with data professionals to improve Cary, NC's eligibility for What Works Cities Certification from Silver to Platinum level.
 
 #work(
   title: "Project Manager & Developer",
@@ -66,11 +66,11 @@
   dates: dates-helper(start-date: "Sep 2021", end-date: "Sep 2023"),
 )
 
-- Won B2B Excellent Award for 2021: awarded to top 6 companies out of 6,500 BigCommerce partners from North and South America were given this award. Through my work on building integrations between Salesforce, BundleB2B, and BigCommerce The Old North Collective was recognized by BigCommerce during their 2021 conference.
+- Won B2B Excellent Award for 2021: awarded to top 6 companies out of 6,500 eligible BigCommerce partners from North and South America through successful integrations between Salesforce, BundleB2B, and BigCommerce.
 - Created integrations between Salesforce, BundleB2B, and BigCommerce REST APIs using Celigo’s integrator.io platform.
-- Managed development teams across Australia and India to launch four e-commerce websites on BigCommerce platform
-- Responsible for application integration for payment services and Avalara's tax calculation tools on Accumatica, Salesforce and BigCommerce.
-- Troubleshot UI problems within BigCommerce themes by tweaking HTML, CSS, and logic for Handlebars functions.
+- Managed end-to-end delivery of four BigCommerce e-commerce websites, leading distributed development teams across Australia and India.
+- Developed and deployed integrations connecting payment services and Avalara tax calculation tools with Acumatica, Salesforce, and BigCommerce platforms.
+- Troubleshot UI problems within BigCommerce themes by editing HTML, CSS, and logic for Handlebars functions.
 
 #work(
   title: "Data Analyst & Programmer",
@@ -78,14 +78,12 @@
   company: "Southern Energy Management",
   dates: dates-helper(start-date: "Jul 2019", end-date: "Oct 2022"),
 )
-- Saved \$40,000 per year through increased productivity by transitioning company's reporting infrastructure to a new web platform and opened new lines of business by reporting trends found in blower door and duct testing data to builders.
-- Saved company \$10,000 per year, using Python modules Selenium and pandas to eliminate issue of duplicates being added to Invoicing pipeline.
-- Increased coverage and visibility of quality assurance data from 20% to 100% of data and saved \$95,000 per year of labor through Python scripts to collate and analyze service data for QA purposes. 
-- Built integration between MySQL database, Google Sheets, Hubspot, and Sakari that sends SMS messages to site supervisors to see if jobs are ready prior to field tech arrival to prevent wasted time and missed rough inspections.
-- Managed developer operations and deployment of pipelines for data team.
-- Used Python, Excel, Google Sheets, and MySQL Server/Workbench to create certificates for Non-Energy Star programs.
-- Entered and analyzed data from multiple pipelines into online platform.
-- Introduced Git/GitHub as a form of source control for company, training users and data team.
+- Saved \$40,000 per year through increased productivity by transitioning company's reporting infrastructure to a new web platform and created new lines of business by reporting previously unrecognized trends found in energy-efficiency testing data to builders.
+-  Delivered \$10,000 in annual labor savings by developing a Python automation using Selenium and pandas to eliminate duplicate entries in the invoicing pipeline.
+- Expanded quality assurance data coverage from 20% to 100% by developing Python scripts to aggregate and analyze service data, saving approximately \$95,000 annually in labor costs.
+- Built an automated integration between MySQL, Google Sheets, HubSpot, and Sakari to send SMS notifications to site supervisors confirming job site readiness before field technician arrival, reducing wasted trips and missed inspections.
+- Managed developer operations and deployment of data pipelines for data team.
+- Introduced Git and GitHub as a form of source control for company, training users and data team.
 
 == Education
 
@@ -93,12 +91,12 @@
   institution: "North Carolina State University",
   location: "Raleigh, NC",
   dates: dates-helper(start-date: "Aug 2013", end-date: "May 2017"),
-  degree: "Bachelor's of Science, Fisheries, Wildlife and Conservation Biology",
+  degree: "Bachelor of Science in Fisheries, Wildlife and Conservation Biology",
 
   // Uncomment the line below if you want edu formatting to be consistent with everything else
   consistent: true
 )
 
-== Skills & Certifications
+== Skills
 
- Work natively with Generative AI Tools like Claude, CoPilot, and ChatGPT. Python, R, SQL (PostgreSQL, SQL Server, DuckDB, SQLite),  SAS Programming, Microsoft Azure Commercial and Azure Government, Microsoft PowerBI, Apache Airflow 3, SQLMesh, Nix Language, NixOS, and nix packaging ecosystem.
+ Python, R, SQL (PostgreSQL, SQL Server, DuckDB, SQLite), SAS Programming, Microsoft Azure Commercial and Azure Government, Microsoft PowerBI, Apache Airflow 3, SQLMesh, Nix Language, NixOS, and nix software packaging ecosystem.
