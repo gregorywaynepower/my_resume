@@ -60,7 +60,7 @@
 - Collaborated across departments with data professionals to improve Cary, NC's eligibility for What Works Cities Certification from Silver to Platinum level.
 
 #work(
-  title: "Project Manager & Developer",
+  title: "Project Manager & Software Engineer",
   location: "Raleigh, NC",
   company: "Old North Collective",
   dates: dates-helper(start-date: "Sep 2021", end-date: "Sep 2023"),
@@ -73,7 +73,7 @@
 - Troubleshot UI problems within BigCommerce themes by editing HTML, CSS, and logic for Handlebars functions.
 
 #work(
-  title: "Data Analyst & Programmer",
+  title: "Data Analyst & Python Programmer",
   location: "Raleigh, NC",
   company: "Southern Energy Management",
   dates: dates-helper(start-date: "Jul 2019", end-date: "Oct 2022"),
@@ -84,6 +84,74 @@
 - Built an automated integration between MySQL, Google Sheets, HubSpot, and Sakari to send SMS notifications to site supervisors confirming job site readiness before field technician arrival, reducing wasted trips and missed inspections.
 - Managed developer operations and deployment of data pipelines for data team.
 - Introduced Git and GitHub as a form of source control for company, training users and data team.
+
+#work(
+  title: "Lead Solar Installer",
+  location: "Raleigh, NC",
+  company: "Southern Energy Management",
+  dates: dates-helper(start-date: "May 2019", end-date: "Jul 2022"),
+)
+- Led team of five Solar Installation Technicians to install AC and DC grid-direct, grid-interactive, and off-grid photovoltaic systems.
+- Programmed SolarEdge inverters and monitoring systems to collect and analyze long-term PV system performance data, supporting system troubleshooting and identification of performance issues.
+- Provided field maintenance and troubleshooting repairs to ensure sites were back online with less than single day downtime.
+
+#work(
+  title: "Solar Installer",
+  location: "Raleigh, NC",
+  company: "Southern Energy Management",
+  dates: dates-helper(start-date: "Jun 2018", end-date: "May 2019"),
+)
+- Install solar panels, inverters, racking, and electrical components for grid-tied PV systems.
+- Set roof anchors, fall protection, and job-site safety systems.
+- Optimize panel layouts to fit roof dimensions and site conditions.
+- Create string maps and panel layout diagrams for accurate system installation.
+- Install racking systems according to plans and manufacturer specifications.
+- Install and route flexible metal conduit through attic spaces.
+- Wire and terminate conductors for SolaDecks, inverters, and solar equipment.
+- Troubleshoot field installation challenges while maintaining safety, quality, and efficiency.
+
+#work(
+  title: "Aquatics Technician",
+  location: "Raleigh, NC",
+  company: "Triangle Pond Management, LLC",
+  dates: dates-helper(start-date: "Jul 2017", end-date: "Jun 2018"),
+)
+- Developed a Python-based calculator to accurately determine herbicide and algaecide application mixtures for pond management.
+- Updated company treatment manuals with effective herbicide and algaecide protocols for invasive aquatic vegetation.
+- Created management plans and technical reports for private landowners and commercial properties.
+- Independently implemented aquatic vegetation and algae best management practices to support effective waterbody management.
+- Licensed to inspect and evaluate stormwater management devices in the field.
+
+== Open Source Software Contributions
+
+#work(
+  title: "GRASS",
+  company: "Geospatial Engine"
+)
+- Worked with maintainers to deploy Open Source Security Foundation's Scorecard and security checks and improve their score.
+- Updated documentation for new users and contributors to the project.
+- Added documentation for how to install GRASS with `conda-forge` package manager `pixi`.
+- Gave presentation on "Using GRASS for Open Data Pipelines" at 2025 GRASS Developer Summit.
+
+#work(
+  title: "QGIS",
+  company: "Desktop Geospatial Software"
+)
+- Worked with maintainers to deploy Open Source Security Foundation's Scorecard and security checks.
+- Maintainer for the OpenSSF Scorecard feature, resolving security checks and working with maintainers on security best practices.
+- Added instructions on how to install QGIS with `conda-forge` package manager `pixi`.
+
+#work(
+  title: "GDAL",
+  company: "Software to translate geospatial data"
+)
+- Added documentation on how to install GDAL with `conda-forge` package manager `pixi`.
+
+#work(
+  title: "DuckDB",
+  company: "OLAP Database"
+)
+- Improved the usability of documentation for the `spatial` extension and how to track Coordinate Reference Systems for geospatial data.
 
 == Education
 
