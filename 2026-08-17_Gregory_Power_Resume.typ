@@ -129,9 +129,9 @@
   company: "Geospatial Engine"
 )
 - Worked with maintainers to deploy Open Source Security Foundation's Scorecard and security checks and improve their score.
-- Updated documentation for new users and contributors to the project.
-- Added documentation for how to install GRASS with `conda-forge` package manager `pixi`.
 - Gave presentation on "Using GRASS for Open Data Pipelines" at 2025 GRASS Developer Summit.
+- Added documentation for how to install GRASS with `conda-forge` package manager `pixi`.
+- Updated documentation to explain concepts to new users of GRASS and contributors to the project.
 
 #work(
   title: "QGIS",
@@ -139,7 +139,7 @@
 )
 - Worked with maintainers to deploy Open Source Security Foundation's Scorecard and security checks.
 - Maintainer for the OpenSSF Scorecard feature, resolving security checks and working with maintainers on security best practices.
-- Added instructions on how to install QGIS with `conda-forge` package manager `pixi`.
+- Added installation instructions for QGIS with the `conda-forge` package manager `pixi`.
 
 #work(
   title: "GDAL",
