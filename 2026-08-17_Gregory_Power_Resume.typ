@@ -122,6 +122,18 @@
 - Independently implemented aquatic vegetation and algae best management practices to support effective waterbody management.
 - Licensed to inspect and evaluate stormwater management devices in the field.
 
+#work(
+  title: "Undergraduate Teaching Assistant",
+  location: "Raleigh, NC",
+  company: "North Carolina State University",
+  dates: dates-helper(start-date: "Jan 2017", end-date: "Jun 2017"),
+)
+
+- Lead class discussions on environmental social justice.
+- Class achieved permanent status in curriculum through my contributions.
+- Created system for managing student feedback through online portal.
+- Collaborated with faculty to create new course materials.
+
 == Open Source Software Contributions
 
 #work(
@@ -140,18 +152,6 @@
 - Worked with maintainers to deploy Open Source Security Foundation's Scorecard and security checks.
 - Maintainer for the OpenSSF Scorecard feature, resolving security checks and working with maintainers on security best practices.
 - Added installation instructions for QGIS with the `conda-forge` package manager `pixi`.
-
-#work(
-  title: "GDAL",
-  company: "Software to translate geospatial data"
-)
-- Added documentation on how to install GDAL with `conda-forge` package manager `pixi`.
-
-#work(
-  title: "DuckDB",
-  company: "OLAP Database"
-)
-- Improved the usability of documentation for the `spatial` extension and how to track Coordinate Reference Systems for geospatial data.
 
 == Education
 
