@@ -142,7 +142,7 @@
 )
 - Collaborated with maintainers to deploy Open Source Security Foundation's Scorecard and security checks and improve their score.
 - Delivered a talk on "Using GRASS for Open Data Pipelines" at 2025 GRASS Developer Summit.
-- Created documentation for how to install GRASS using the conda-forge package manager pixi.
+- Created documentation for installing GRASS using pixi, the conda-forge package manager.
 - Revised contributor and user documentation to make core GRASS concepts more accessible to newcomers.
 
 #work(
