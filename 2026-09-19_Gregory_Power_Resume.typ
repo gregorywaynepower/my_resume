@@ -50,28 +50,28 @@
   company: "Town of Cary",
   dates: dates-helper(start-date: "October 2022", end-date: "October 2025"),
 )
-- Reduced annual infrastructure costs by \$100,000 through a comprehensive utilization audit of Cary's on-premises SAS 9.4 cluster, removing underutilized vendor services.
-- Created inventory and map of Cary’s Eco-Counter sites and people-counting equipment, saving \$14,000 per year in maintenance costs. 
-- By deploying and training users on QGIS, GRASS, PostgreSQL, and PostGIS for geospatial mapping and analysis workflows, saved \$8,400 annually in software licensing costs.
-- Initiated the Python Inter-Department User Group and trained users on Python, SQL, and Git.
-- Supported and administered enterprise analytics infrastructure, including Microsoft Azure resources, Power BI Dataflows and workspaces, SAS 9.4 (Windows Server and Red Hat Enterprise Linux), and SAS Viya 4.
-- Built data pipelines using Python, SAS 9.4, Microsoft PowerBI and Huwise (formerly Opendatasoft) Platform for internal and public stakeholders.
+
+- Reduced annual infrastructure costs by \$100,000 through a comprehensive utilization audit of Cary's on-premises SAS 9.4 cluster, identifying and removing underutilized vendor services.
+- Deployed and trained users on QGIS, GRASS, PostgreSQL, and PostGIS for geospatial analysis workflows, integrating open-source workflows with Cary's existing ArcGIS Enterprise and ArcGIS Online environment and reducing software licensing costs by \$8,400 annually.
+- Saved \$14,000 annually in maintenance costs by creating an inventory and map of Cary's Eco-Counter sites and people-counting equipment.
+- Built data pipelines using Python, SAS 9.4, Power BI, and Huwise for internal and public stakeholders.
+- Supported and administered enterprise analytics infrastructure, including Microsoft Azure resources, Power BI Dataflows and workspaces, SAS 9.4 on Windows Server and Red Hat Enterprise Linux, and SAS Viya 4.
 - Created public-facing dashboards and data applications using Huwise's Bootstrap and AngularJS component library.
-- Collaborated across departments with data professionals to improve Cary, NC's eligibility for What Works Cities Certification from Silver to Platinum level.
+- Founded the Python Inter-Department User Group and trained staff across departments in Python, SQL, and Git.
+- Collaborated across city departments to improve data practices, infrastructure, and governance, strengthening Cary's eligibility for Platinum-level certification through the What Works Cities Certification program.
 
 #work(
-  title: "Project Manager & Software Engineer",
+  title: "Software Engineer & Project Manager",
   location: "Raleigh, NC",
   company: "Old North Collective",
   dates: dates-helper(start-date: "Sep 2021", end-date: "Sep 2023"),
 )
 
-- Won B2B Excellent Award for 2021: awarded to top 6 companies out of 6,500 eligible BigCommerce partners from North and South America through successful integrations between Salesforce, BundleB2B, and BigCommerce.
+- Won B2B Excellence Award for 2021: awarded to top 6 companies out of 6,500 eligible BigCommerce partners from North and South America through successful integrations between Salesforce, BundleB2B, and BigCommerce.
 - Created integrations between Salesforce, BundleB2B, and BigCommerce REST APIs using Celigo’s integrator.io platform.
 - Managed end-to-end delivery of four BigCommerce e-commerce websites, leading distributed development teams across Australia and India.
 - Developed and deployed integrations connecting payment services and Avalara tax calculation tools with Acumatica, Salesforce, and BigCommerce platforms.
-- Troubleshot UI problems within BigCommerce themes by editing HTML, CSS, and logic for Handlebars functions.
-
+- Customized front-end functionality for BigCommerce storefronts using HTML, CSS, and Handlebars templates.
 #work(
   title: "Data Analyst & Python Programmer",
   location: "Raleigh, NC",
@@ -89,10 +89,10 @@
   title: "Lead Solar Installer",
   location: "Raleigh, NC",
   company: "Southern Energy Management",
-  dates: dates-helper(start-date: "May 2019", end-date: "Jul 2022"),
+  dates: dates-helper(start-date: "May 2019", end-date: "Jul 2019"),
 )
-- Led team of five Solar Installation Technicians to install AC and DC grid-direct, grid-interactive, and off-grid photovoltaic systems.
-- Programmed SolarEdge inverters and monitoring systems to collect and analyze long-term PV system performance data, supporting system troubleshooting and identification of performance issues.
+- Led a team of five Solar Installation Technicians in installing, commissioning, troubleshooting, and maintaining photovoltaic systems.
+- Configured SolarEdge monitoring systems to collect and analyze long-term photovoltaic performance data, identifying performance issues and supporting system troubleshooting.
 - Provided field maintenance and troubleshooting repairs to ensure sites were back online with less than single day downtime.
 
 #work(
@@ -101,14 +101,8 @@
   company: "Southern Energy Management",
   dates: dates-helper(start-date: "Jun 2018", end-date: "May 2019"),
 )
-- Install solar panels, inverters, racking, and electrical components for grid-tied PV systems.
-- Set roof anchors, fall protection, and job-site safety systems.
-- Optimize panel layouts to fit roof dimensions and site conditions.
-- Create string maps and panel layout diagrams for accurate system installation.
-- Install racking systems according to plans and manufacturer specifications.
-- Install and route flexible metal conduit through attic spaces.
-- Wire and terminate conductors for SolaDecks, inverters, and solar equipment.
-- Troubleshoot field installation challenges while maintaining safety, quality, and efficiency.
+- Installed and commissioned grid-tied photovoltaic systems, including panels, inverters, racking, electrical components, and monitoring equipment.
+- Created system layouts and string maps, optimized panel configurations for site conditions, and troubleshot installation challenges while maintaining safety and quality standards.
 
 #work(
   title: "Aquatics Technician",
@@ -116,11 +110,8 @@
   company: "Triangle Pond Management, LLC",
   dates: dates-helper(start-date: "Jul 2017", end-date: "Jun 2018"),
 )
-- Developed a Python-based calculator to accurately determine herbicide and algaecide application mixtures for pond management.
-- Updated company treatment manuals with effective herbicide and algaecide protocols for invasive aquatic vegetation.
-- Created management plans and technical reports for private landowners and commercial properties.
-- Independently implemented aquatic vegetation and algae best management practices to support effective waterbody management.
-- Licensed to inspect and evaluate stormwater management devices in the field.
+- Built a Python-based calculator to accurately determine herbicide and algaecide application mixtures for aquatic vegetation management.
+- Created waterbody management plans and technical reports, updated treatment protocols, and conducted field assessments of aquatic vegetation and stormwater management infrastructure.
 
 #work(
   title: "Undergraduate Teaching Assistant",
@@ -133,25 +124,28 @@
 - Designed an online student-feedback system to streamline collection and organization of course feedback.
 - Led class discussions on environmental social justice, facilitating student engagement and discussion.
 
-== Open Source Software Contributions
+== Open Source Contributions
 
 #work(
-  title: "GRASS",
-  company: "Geospatial Engine"
+title: "GRASS GIS",
+company: "Geospatial Engine"
 )
-- Collaborated with maintainers to deploy Open Source Security Foundation's Scorecard and security checks and improve their score.
-- Delivered a talk on "Using GRASS for Open Data Pipelines" at 2025 GRASS Developer Summit.
-- Created documentation for installing GRASS using pixi, the conda-forge package manager.
-- Revised contributor and user documentation to make core GRASS concepts more accessible to newcomers.
+- Collaborated with project maintainers to deploy OpenSSF Scorecard security checks and investigate security findings.
+- Delivered presentation on "Using GRASS for Open Data Pipelines" at the 2025 GRASS Developer Summit.
+- Created pixi installation documentation and revised contributor and user documentation to improve accessibility for new users.
 
 #work(
-  title: "QGIS",
-  company: "Desktop Geospatial Software"
+title: "QGIS",
+company: "Desktop Geospatial Software"
 )
-- Supported the adoption of OpenSSF Scorecard security checks and collaborated with maintainers to strengthen project security practices.
-- Worked with maintainers to deploy Open Source Security Foundation's Scorecard and security checks.
-- Maintainer for the OpenSSF Scorecard integration, investigating security findings and helping implement recommended improvements.
-- Documented the process for installing QGIS through pixi and the conda-forge ecosystem.
+- Supported the adoption of the OpenSSF Scorecard integration and collaborated with project maintainers to address security findings.
+- Documented installation of QGIS using pixi and the conda-forge ecosystem.
+
+#work(
+title: "DuckDB",
+company: "Analytical Database"
+)
+- Improved documentation for DuckDB's spatial extension with GeoJSON examples and guidance for tracking Coordinate Reference Systems (CRS) in geospatial data.
 
 == Education
 
@@ -167,4 +161,10 @@
 
 == Skills
 
- Python, R, SQL (PostgreSQL, SQL Server, DuckDB, SQLite), Microsoft PowerBI, SAS Programming, Rust, Microsoft Azure Commercial and Azure Government, Apache Airflow 3, SQLMesh, Nix Language, NixOS, and nix software packaging ecosystem.
+*Programming Languages:* Python, R, SQL, Rust, SAS.
+
+*Analytics Engineering:* Apache Airflow, SQLMesh, PostgreSQL, PostGIS, SQL Server, DuckDB, SQLite, ETL/ELT, REST APIs, Git/GitHub.
+
+*Geospatial:* ArcGIS Pro, QGIS, GRASS GIS.
+
+*Cloud & Infrastructure:* Microsoft Azure, Azure Government, Red Hat Enterprise Linux (RHEL), Docker, NixOS, Nix, pixi, conda-forge.
