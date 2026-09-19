@@ -52,7 +52,7 @@
 )
 - Reduced annual infrastructure costs by \$100,000 through a comprehensive utilization audit of Cary's on-premises SAS 9.4 cluster, removing underutilized vendor services.
 - Created inventory and map of Cary’s Eco-Counter sites and people-counting equipment, saving \$14,000 per year in maintenance costs. 
-- Saved \$8,400 annually in software licensing costs by deploying and training users on QGIS, GRASS, PostgreSQL, and PostGIS for geospatial mapping and analysis workflows.
+- By deploying and training users on QGIS, GRASS, PostgreSQL, and PostGIS for geospatial mapping and analysis workflows, saved \$8,400 annually in software licensing costs.
 - Initiated the Python Inter-Department User Group and trained users on Python, SQL, and Git.
 - Supported and administered enterprise analytics infrastructure, including Microsoft Azure resources, Power BI Dataflows and workspaces, SAS 9.4 (Windows Server and Red Hat Enterprise Linux), and SAS Viya 4.
 - Built data pipelines using Python, SAS 9.4, Microsoft PowerBI and Huwise (formerly Opendatasoft) Platform for internal and public stakeholders.
@@ -140,18 +140,19 @@
   title: "GRASS",
   company: "Geospatial Engine"
 )
-- Worked with maintainers to deploy Open Source Security Foundation's Scorecard and security checks and improve their score.
-- Gave presentation on "Using GRASS for Open Data Pipelines" at 2025 GRASS Developer Summit.
-- Added documentation for how to install GRASS with `conda-forge` package manager `pixi`.
-- Updated documentation to explain concepts to new users of GRASS and contributors to the project.
+- Collaborated with maintainers to deploy Open Source Security Foundation's Scorecard and security checks and improve their score.
+- Delivered a talk on "Using GRASS for Open Data Pipelines" at 2025 GRASS Developer Summit.
+- Created documentation for how to install GRASS using the conda-forge package manager pixi.
+- Revised contributor and user documentation to make core GRASS concepts more accessible to newcomers.
 
 #work(
   title: "QGIS",
   company: "Desktop Geospatial Software"
 )
+- Supported the adoption of OpenSSF Scorecard security checks and collaborated with maintainers to strengthen project security practices.
 - Worked with maintainers to deploy Open Source Security Foundation's Scorecard and security checks.
-- Maintainer for the OpenSSF Scorecard feature, resolving security checks and working with maintainers on security best practices.
-- Added installation instructions for QGIS with the `conda-forge` package manager `pixi`.
+- Maintainer for the OpenSSF Scorecard integration, investigating security findings and helping implement recommended improvements.
+- Documented the process for installing QGIS through pixi and the conda-forge ecosystem.
 
 == Education
 
@@ -167,4 +168,4 @@
 
 == Skills
 
- Python, R, SQL (PostgreSQL, SQL Server, DuckDB, SQLite), SAS Programming, Microsoft Azure Commercial and Azure Government, Microsoft PowerBI, Apache Airflow 3, SQLMesh, Nix Language, NixOS, and nix software packaging ecosystem.
+ Python, R, SQL (PostgreSQL, SQL Server, DuckDB, SQLite), Microsoft PowerBI, SAS Programming, Rust, Microsoft Azure Commercial and Azure Government, Apache Airflow 3, SQLMesh, Nix Language, NixOS, and nix software packaging ecosystem.
