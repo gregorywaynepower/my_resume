@@ -129,10 +129,9 @@
   dates: dates-helper(start-date: "Jan 2017", end-date: "Jun 2017"),
 )
 
-- Lead class discussions on environmental social justice.
-- Class achieved permanent status in curriculum through my contributions.
-- Created system for managing student feedback through online portal.
-- Collaborated with faculty to create new course materials.
+- Collaborated with faculty to develop course materials and contributed to the course's adoption as a permanent part of the curriculum.
+- Designed an online student-feedback system to streamline collection and organization of course feedback.
+- Led class discussions on environmental social justice, facilitating student engagement and discussion.
 
 == Open Source Software Contributions
 
